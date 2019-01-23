@@ -1,6 +1,6 @@
 # ATM-management-system
 
-TO import the database:
+To import the database:     
 You will have to register the location of this copied database folder. To do this:
 -Open Netbeans.
 -Under Services, open the Databases node.
